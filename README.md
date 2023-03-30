@@ -1,0 +1,1 @@
+# zelda-skyward-sword-100-completion
