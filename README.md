@@ -5,9 +5,9 @@
 - [x] Activate all Bird Statues.
 - [x] Collect all 10 Medals.
 - [x] Collect all five Empty Bottles.  
-![[Pasted image 20230422182233.png]]
-- [x] Collect one of all 12 Bugs.  
-![[Pasted image 20230422162233.png]]
+![image](https://user-images.githubusercontent.com/33391637/233778366-cea7916f-9b60-4714-923b-6337dade379a.png)
+- [x] Collect one of all 12 Bugs.
+![image](https://user-images.githubusercontent.com/33391637/233778377-f4082d83-0051-42c1-a5a8-ff98faf97d4e.png)
 - [x] Collect one of all 16 Treasures.
 - [x] Complete the Bug Wrangler course at Bug Rock.
 - [x] Complete the Thunder Dragon's Lighting Round.
@@ -19,11 +19,11 @@
     - [x] Fortified Shield.
     - [x] Goddess Shield.
     - [x] Big Bug Net.  
-    ![[Pasted image 20230422182321.png]]
+    ![image](https://user-images.githubusercontent.com/33391637/233778402-1df7925c-ca19-44a9-ac12-04f9fa9cfd67.png)
     - [x] Scattershot.  
-    ![[Pasted image 20230422182312.png]]
+    ![image](https://user-images.githubusercontent.com/33391637/233778398-a0617afa-f81c-44e7-a2ff-66d1444bb473.png)
     - [x] Tough Beetle.  
-    ![[Pasted image 20230422182301.png]]
+    ![image](https://user-images.githubusercontent.com/33391637/233778386-c03a125e-48df-4a25-98c5-19cb9f12ec25.png)
     - [x] Sacred Bow.
     - [x] Large Seed Satchel.
     - [x] Large Bomb Bag.
@@ -34,4 +34,4 @@
 - [x] Unlock all five extra Dowsing targets.
 - [x] Upgrade the Adventure Pouch capacity to 8.
 - [x] Upgrade the Wallet capacity to 9,900 by collecting all 80 Gratitude Crystals.  
-![[Pasted image 20230422162131.png]]
+![image](https://user-images.githubusercontent.com/33391637/233778415-58961c20-1358-48b3-a785-bc1a31825471.png)
