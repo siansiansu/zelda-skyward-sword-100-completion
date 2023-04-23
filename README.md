@@ -122,17 +122,29 @@
         - [x] Location: The Thunderhead.
 - [x] Collect one of all 12 Bugs.
     - [x] Blessed Butterfly.
+    ![image](https://user-images.githubusercontent.com/33391637/233824352-78d0bd36-8beb-4892-b912-ad90b5137871.png)
     - [x] Deku Hornet.
+    ![image](https://user-images.githubusercontent.com/33391637/233824358-515e81ac-c552-49e1-a801-3b9fbc9d981f.png)
     - [x] Eldin Roller.
+    ![image](https://user-images.githubusercontent.com/33391637/233824455-caaa80e6-ae7a-4271-8d33-038595f0c340.png)
     - [x] Faron Grasshopper.
+    ![image](https://user-images.githubusercontent.com/33391637/233824493-cd13d758-c42f-47d1-8e27-2b32f0c9e428.png)
     - [x] Gerudo Dragonfly.
+    ![image](https://user-images.githubusercontent.com/33391637/233824349-ddd363b5-ae2b-4213-aab8-ccc85b735f48.png)
     - [x] Lanayru Ant.
+    ![image](https://user-images.githubusercontent.com/33391637/233824465-46afde09-14fe-4818-822c-156b06d4c981.png)
     - [x] Sand Cicada.
+    ![image](https://user-images.githubusercontent.com/33391637/233824392-232337f3-9ef5-4ec9-8c72-20dd122973ed.png)
     - [x] Sky Stag Beetle.
+    ![image](https://user-images.githubusercontent.com/33391637/233824441-7b66e428-b861-4888-be47-2f6d02d910ae.png)
     - [x] Skyloft Mantis.
+    ![image](https://user-images.githubusercontent.com/33391637/233824323-66705ea4-73a4-4294-a3a7-c0ce9e847dc5.png)
     - [x] Starry Firefly.
+    ![image](https://user-images.githubusercontent.com/33391637/233824338-71fb1307-21c7-41c6-b6da-579e845d45fb.png)
     - [x] Volcanic Ladybug.
+    ![image](https://user-images.githubusercontent.com/33391637/233824383-335be894-0697-4611-9f99-c19b8533b3e8.png)
     - [x] Woodland Rhino Beetle.
+    ![image](https://user-images.githubusercontent.com/33391637/233824429-84a38e2c-f8c6-433f-a58b-2a3164f4eb38.png)
 - [x] Collect one of all 16 Treasures.
     - [x] Amber Relic.
     - [x] Ancient Flower.
