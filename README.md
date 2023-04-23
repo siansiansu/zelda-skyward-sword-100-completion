@@ -147,21 +147,37 @@
     ![image](https://user-images.githubusercontent.com/33391637/233824429-84a38e2c-f8c6-433f-a58b-2a3164f4eb38.png)
 - [x] Collect one of all 16 Treasures.
     - [x] Amber Relic.
+    ![image](https://user-images.githubusercontent.com/33391637/233830418-34c3500b-7ee8-4370-bfca-d38ba5669edf.png)
     - [x] Ancient Flower.
+    ![image](https://user-images.githubusercontent.com/33391637/233830425-19b0b8e0-8efb-4ae8-a0eb-5e81fa22f653.png)
     - [x] Bird Feather.
+    ![image](https://user-images.githubusercontent.com/33391637/233830366-76e43e21-eb0d-4c84-9312-e25c35a2168d.png)
     - [x] Blue Bird Feather.
+    ![image](https://user-images.githubusercontent.com/33391637/233830522-8b26039c-16f2-465d-adfb-c5dca5160fe4.png)
     - [x] Dark Relic.
+    ![image](https://user-images.githubusercontent.com/33391637/233830414-1a75b921-95dc-4d65-b78a-3023f5421a72.png)
     - [x] Eldin Ore.
+    ![image](https://user-images.githubusercontent.com/33391637/233830431-672c3563-b9ed-4380-aacf-59ba4c7fbd89.png)
     - [x] Evil Crystal.
+    ![image](https://user-images.githubusercontent.com/33391637/233830525-adba74bd-2c10-4469-b38a-45dcec237d48.png)
     - [x] Goddess Plume.
+    ![image](https://user-images.githubusercontent.com/33391637/233830512-7d2d4c64-1452-4154-90a8-d3cf289a1014.png)
     - [x] Golden Skull.
+    ![image](https://user-images.githubusercontent.com/33391637/233830518-3c6def38-43b7-4aa7-ba42-6e23464e2f95.png)
     - [x] Hornet Larvae.
+    ![image](https://user-images.githubusercontent.com/33391637/233830392-0cb38c06-cda4-4e1d-ac04-27e1d650e557.png)
     - [x] Jelly Blob.
+    ![image](https://user-images.githubusercontent.com/33391637/233830486-05c486e0-6960-417d-b402-42cd3d6a2368.png)
     - [x] Lizard Tail.
+    ![image](https://user-images.githubusercontent.com/33391637/233830322-b4ca41fa-8035-4325-847a-230a3e6e4dfe.png)
     - [x] Monster Claw.
+    ![image](https://user-images.githubusercontent.com/33391637/233830477-771b0864-ee1a-432f-8aab-ed1bee6efc39.png)
     - [x] Monster Horn.
+    ![image](https://user-images.githubusercontent.com/33391637/233830474-0e6c0ab3-a9b3-4381-ada0-03134ee87ef6.png)
     - [x] Ornamental Skull.
+    ![image](https://user-images.githubusercontent.com/33391637/233830463-e5c6f9b9-9d94-4108-90cc-3fc41ccdbf1a.png)
     - [x] Tumbleweed.
+    ![image](https://user-images.githubusercontent.com/33391637/233830351-096a111b-f7f0-478d-9ed5-ec8074144cd3.png)
 - [x] Complete the Bug Wrangler course at Bug Rock.
 - [x] Complete the Thunder Dragon's Lighting Round.
 - [x] Enter each house in Skyloft once.
