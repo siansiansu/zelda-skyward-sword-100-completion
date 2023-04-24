@@ -264,9 +264,3 @@ Screenshots
 ![image](https://user-images.githubusercontent.com/33391637/234083234-ba742742-e700-4015-a449-3c19a4c5f97e.png)
 ![image](https://user-images.githubusercontent.com/33391637/234083252-5ac17ac1-9a79-488d-8c20-e059c8c1e07f.png)
 ![image](https://user-images.githubusercontent.com/33391637/234083277-84fbff0d-4ab2-490c-9ef4-2df36987bf3c.png)
-
-
-
-
-
-    - [x] Gratitude Crystals.
