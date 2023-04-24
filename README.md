@@ -190,7 +190,9 @@
     - [x] Piper's house.
     - [x] Sparrot's house.
 - [x] Extend the Life Gauge to 18 by collecting all six Heart Containers and all 24 Pieces of Heart.
+![image](https://user-images.githubusercontent.com/33391637/234082402-d53966ed-94d2-4e9a-9ddd-ad094dbd6999.png)
 - [x] Obtain the Hylian Shield.
+![image](https://user-images.githubusercontent.com/33391637/234082542-c94be3d5-df89-4b57-bd51-195e1cada7ac.png)
 - [x] Obtain the highest upgrades.
     - [x] Big Bug Net.  
     ![image](https://user-images.githubusercontent.com/33391637/233778402-1df7925c-ca19-44a9-ac12-04f9fa9cfd67.png)
@@ -213,8 +215,11 @@
     - [x] Tough Beetle.  
     ![image](https://user-images.githubusercontent.com/33391637/233778386-c03a125e-48df-4a25-98c5-19cb9f12ec25.png)
 - [x] Reach over 28 hits in Clean Cut.
+![image](https://user-images.githubusercontent.com/33391637/234082506-bd4b96fc-685a-4dbe-9931-447223d9d9a7.png)
 - [x] Speak to Rupin at night.
+![image](https://user-images.githubusercontent.com/33391637/234081631-4a8de449-9ae1-43a1-ab57-c342b36fb5bd.png)
 - [x] Speak to Strich at night.
+![image](https://user-images.githubusercontent.com/33391637/234081718-31a50ce2-83f6-4166-a3f2-7b592c01e5f8.png)
 - [x] Summon all Gossip Stones.
     - [x] Eldin Volcano (x3):
         - [x] On a platform to the west of the Earth Temple entrance.
@@ -230,15 +235,38 @@
         - [x] In Lanayru Caves right before you exit to Lanayru Gorge.
     - [x] In the Sky (x4):
         - [x] Inside the thicket on Bamboo Island.
+        ![image](https://user-images.githubusercontent.com/33391637/234082446-c891d8f9-6a0d-4dec-b94d-5c75fb7c6802.png)
         - [x] On a small island south of Bug Island.
         - [x] On an island southwest of Skyloft in a volcano-like cone.
         - [x] On waterfall platform above Skyloft on the east side of town. You need the Clawshots to get here.
 - [x] Unlock all five extra Dowsing targets.
     - [x] Goddess Cubes.
+    ![image](https://user-images.githubusercontent.com/33391637/234081852-07ab5b45-d22f-4b7e-981f-2204623c44ae.png)
     - [x] Gratitude Crystals.
+    ![image](https://user-images.githubusercontent.com/33391637/234081816-f0ef15a3-ea23-4de3-bd46-043cff7376cf.png)
     - [x] Hearts.
+    ![image](https://user-images.githubusercontent.com/33391637/234081580-f410b1f6-47db-4976-8cc2-bcfeb9aba09d.png)
     - [x] Rupees.
+    ![image](https://user-images.githubusercontent.com/33391637/234081795-526b1556-ac6e-4af0-a94c-ad7ed37e286c.png)
     - [x] Treasure.
+    ![image](https://user-images.githubusercontent.com/33391637/234081766-611241e7-f78a-4647-878c-a17c43587824.png)
 - [x] Upgrade the Adventure Pouch capacity to 8.
 - [x] Upgrade the Wallet capacity to 9,900 by collecting all 80 Gratitude Crystals.  
 ![image](https://user-images.githubusercontent.com/33391637/233778415-58961c20-1358-48b3-a785-bc1a31825471.png)
+
+
+Screenshots
+![image](https://user-images.githubusercontent.com/33391637/234083053-526d0f80-0887-4168-a742-c798364d577c.png)
+![image](https://user-images.githubusercontent.com/33391637/234083090-1ed1faa3-51cd-42fe-94e5-9d5c3ef915ba.png)
+![image](https://user-images.githubusercontent.com/33391637/234083122-3fe0e053-f756-4710-9651-fdcde7bb2d4b.png)
+![image](https://user-images.githubusercontent.com/33391637/234083141-f2ea6d33-06e4-403c-bcd0-a42b4b950168.png)
+![image](https://user-images.githubusercontent.com/33391637/234083215-e19755f8-ddb1-464c-9d0a-5bb7dff03fb3.png)
+![image](https://user-images.githubusercontent.com/33391637/234083234-ba742742-e700-4015-a449-3c19a4c5f97e.png)
+![image](https://user-images.githubusercontent.com/33391637/234083252-5ac17ac1-9a79-488d-8c20-e059c8c1e07f.png)
+![image](https://user-images.githubusercontent.com/33391637/234083277-84fbff0d-4ab2-490c-9ef4-2df36987bf3c.png)
+
+
+
+
+
+    - [x] Gratitude Crystals.
