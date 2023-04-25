@@ -57,7 +57,8 @@
     - [x] Goddess Cube 27:
         - [x] Lanayru Gorge -> Small island southwest of the Isle of Songs, Thunderhead.
 - [x] Activate all Bird Statues.
-    - [x] Eldin Province.
+    - [x] Eldin Province (x6).
+    ![image](https://user-images.githubusercontent.com/33391637/234373855-68e6d126-ed7c-4c78-be36-bc1106a9f246.png)
         - [x] Inside the Fire Sanctuary.
         - [x] Inside the Volcano.
         - [x] Temple Entrance.
