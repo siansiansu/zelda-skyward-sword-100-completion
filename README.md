@@ -183,12 +183,23 @@
 - [x] Enter each house in Skyloft once.
     - [x] Batreaux's house.
     - [x] Bertie's house.
+    ![image](https://user-images.githubusercontent.com/33391637/234373039-02b5e82d-43af-47a3-9fbe-6b5d0758a188.png)
     - [x] Gondo's house.
+    ![image](https://user-images.githubusercontent.com/33391637/234373547-b818be20-7c80-4beb-8ff6-977380d1150b.png)
     - [x] Kukiel's house.
+    ![image](https://user-images.githubusercontent.com/33391637/234372713-e07ebd62-6bd7-4b1a-aed7-739f806c4000.png)
     - [x] Orielle & Parrow's house.
+    ![image](https://user-images.githubusercontent.com/33391637/234372283-1bc08d69-6d5b-480d-8d29-d1526cc11b22.png)
     - [x] Peatrice's house.
+    ![image](https://user-images.githubusercontent.com/33391637/234372365-d46facbd-d308-4a75-9062-ef6d2505d7fa.png)
     - [x] Piper's house.
+    ![image](https://user-images.githubusercontent.com/33391637/234372534-e7051b70-5feb-4908-a937-da0a12b1c5b1.png)
+    - [x] Pipit's house.
+    ![image](https://user-images.githubusercontent.com/33391637/234373481-15f4744e-034a-4926-9ec0-aaaa1c3e0435.png)
+    - [x] Rupin's house.
+    ![image](https://user-images.githubusercontent.com/33391637/234373679-a98b249b-eae5-4d6f-ad7e-1be463c538cd.png)
     - [x] Sparrot's house.
+    ![image](https://user-images.githubusercontent.com/33391637/234371831-918e2083-c361-42e6-b120-2f39484160b4.png)
 - [x] Extend the Life Gauge to 18 by collecting all six Heart Containers and all 24 Pieces of Heart.
 ![image](https://user-images.githubusercontent.com/33391637/234082402-d53966ed-94d2-4e9a-9ddd-ad094dbd6999.png)
 - [x] Obtain the Hylian Shield.
