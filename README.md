@@ -4,63 +4,91 @@
 ![image](https://user-images.githubusercontent.com/33391637/235417234-20eaf69c-f161-47bf-b050-904d3dc52a33.png)
 - [x] Activate all 27 Goddess Cubes and open their respective Goddess's Treasure Chests.
     - [x] Goddess Cube 1:
-        - [x] Deep Woods -> Pumpkin Landing.
-        ![image](https://user-images.githubusercontent.com/33391637/235419722-1b447803-caa1-46e2-958c-fc593c895832.png)
+    ![image](https://user-images.githubusercontent.com/33391637/235424495-110c8575-cb87-40bb-9398-5eb2cc2a23da.png)
+        - [x] Cube Location: Deep Woods
+        - [x] Chest Location: Pumpkin Landing This chest appears on the side of the massive pumpkin building.
     - [x] Goddess Cube 2:
-        - [x] Deep Woods -> Island south of Skyloft.
-        ![image](https://user-images.githubusercontent.com/33391637/235419770-537985ad-b5bf-4d18-9f05-d1d90b314402.png)
+    ![image](https://user-images.githubusercontent.com/33391637/235424543-b5fa9406-d3e2-4036-8359-0a0c1efc8b02.png)
+        - [x] Cube Location: Deep Woods.
+        - [x] Chest Location: Small island south of Skyloft.
     - [x] Goddess Cube 3:
-        - [x] Skyview Spring -> Pumpkin Landing.
+        - [x] Cube Location: Faron Woods Great Tree.
+        - [x] Chest Location: This opens a chest on an island in the northern part of the Thunderhead.
     - [x] Goddess Cube 4:
-        - [x] Eldin Volcano -> Island southwest of Skyloft.
-        ![image](https://user-images.githubusercontent.com/33391637/235419949-9493b40d-c2eb-45e2-bf0f-c81babcca803.png)
+        - [x] Cube Location: Faron Woods Great Tree.
+        - [x] Chest Location: This opens a chest on the west side of Skyloft.
     - [x] Goddess Cube 5:
-        - [x] Eldin Volcano -> Island far north of Skyloft, next to Bamboo Island.
+        - [x] Cube Location:Faron Woods Great Tree.
+        - [x] Chest Location: Volcano shaped Island East and JUST south of the Lanayru portal.
     - [x] Goddess Cube 6:
-        - [x] Eldin Volcano -> Isle of Songs.
-        ![image](https://user-images.githubusercontent.com/33391637/235420057-429de5ca-a2a9-4d38-a684-5aa3109197eb.png)
+        - [x] Cube Location: Skyview Temple Entrance.
+        - [x] Chest Location: Beedle's Island.
     - [x] Goddess Cube 7:
-        - [x] Eldin Volcano -> Bamboo Island.
+        - [x] Cube Location: Skyview Spring.
+        - [x] Chest Location: Pumpkin Landing, above the doorway.
     - [x] Goddess Cube 8:
-        - [x] Eldin Volcano -> Island northeast of Skyloft.
+        - [x] Cube Location: Under Lake Floria.
+        - [x] Chest Location: You need the Clawshots to get to the chest on the east side of Skyloft.
     - [x] Goddess Cube 9:
-        - [x] Eldin Volcano -> Storage Shed in Skyloft.
+        - [x] Cube Location: Ancient Cistern Entrance.
+        - [x] Chest Location: On a small island under Fun-Fun Island.
     - [x] Goddess Cube 10:
-        - [x] Lanayru Desert -> Island northwest of Skyloft.
+    ![image](https://user-images.githubusercontent.com/33391637/235424410-d08ab809-298f-4be5-b03d-a3ba909e50bf.png)
+        - [x] Cube Location: Eldin Volcano Entry.
+        - [x] Chest Location: This opens a chest in the north of Skyloft, next to bamboo island.
     - [x] Goddess Cube 11:
-        - [x] Lanayru Desert -> Island in the northeast corner of map.
+    ![image](https://user-images.githubusercontent.com/33391637/235424468-87644559-af09-4e6b-a2b0-db10e0dd0e5f.png)
+        - [x] Cube Location: Eldin Volcano Entry.
+        - [x] Chest Location: This opens a chest in the southwest of Skyloft, to the west of Fun Fun Island.
     - [x] Goddess Cube 12:
-        - [x] Temple of Time -> Beedle’s Island.
+    ![image](https://user-images.githubusercontent.com/33391637/235424616-f59e92e0-388e-48c5-ad08-020494ad418c.png)
+        - [x] Cube Location: Eldin Volcano.
+        - [x] Chest Location: This opens a chest on the Isle of Songs in the Thunderhead.
     - [x] Goddess Cube 13:
-        - [x] Faron Woods -> West side of Skyloft.
+        - [x] Cube Location: Earth Temple Entrance.
+        - [x] Chest Location: This opens a chest on Bamboo Island.
     - [x] Goddess Cube 14:
-        - [x] Faron Woods -> Volcano shaped island east of Lanayru portal.
+        - [x] Cube Location: Earth Temple Entrance.
+        - [x] Chest Location: This opens a chest in the northeast of Skyloft, southeast of Beedle's Island.
     - [x] Goddess Cube 15:
-        - [x] Faron Woods -> Northern area of the Thunderhead.
+        - [x] Cube Location: Eastern Eldin Volcano.
+        - [x] Chest Location: This opens a chest in center of the town of Skyloft.
     - [x] Goddess Cube 16:
-        - [x] Lake Floria -> East side of Skyloft.
+        - [x] Cube Location: Fire Sanctuary Entrance.
+        - [x] Chest Location: This chest is on Bug Island in the Thunderhead.
     - [x] Goddess Cube 17:
-        - [x] Lanayru Desert -> Island between the Bamboo Island and Beedle's Island.
+        - [x] Cube Location: Fire Sanctuary Entrance.
+        - [x] Chest Location: On the roof of the Isle of Storms building in the Thunderhead.
     - [x] Goddess Cube 18:
-        - [x] Lanayru Desert -> Northwest of Fun Fun Island.
+        - [x] Cube Location: Fire Dragon's Domain.
+        - [x] Chest Location: Land on the island in the western area of the Thunderhead. You can find a dig spot on one side of the island. One of the dig spot's exits leads to this Chest.
     - [x] Goddess Cube 19:
-        - [x] Lanayru Sand Sea -> Skyloft Bazaar.
+        - [x] Cube Location: Lanayru Mines Entrance.
+        - [x] Chest Location: This opens a chest northwest of Skyloft, but you'll have to bomb a wall on the marked island to get to it.
     - [x] Goddess Cube 20:
-        - [x] Skipper's Retreat -> Island northwest of Fun Fun Island.
+        - [x] Cube Location: Lanayru Desert.
+        - [x] Chest Location: South of Skyloft is a floating island with a hollowed-out volcano-like area.
     - [x] Goddess Cube 21:
-        - [x] Pirate Stronghold -> Top of the Skyloft waterfall.
+        - [x] Cube Location: Temple of Time Entrance.
+        - [x] Chest Location: The chest it opens is on Beedle's Island in the northeast of the sky.
     - [x] Goddess Cube 22:
-        - [x] Skyview Temple -> Beedle's Island at night.
+        - [x] Cube Location: Lanayru Desert.
+        - [x] Chest Location: An island between the Bamboo Island and Beedle's Island.
     - [x] Goddess Cube 23:
-        - [x] Lake Floria, just before Ancient Cistern -> Beneath Fun Fun Island.
+        - [x] Cube Location: Lanayru Mining Facility Entrance.
+        - [x] Chest Location: An island northwest of Fun-Fun Island.
     - [x] Goddess Cube 24:
-        - [x] Volcano Summit, waterfall spring -> Bug Island, Thunderhead.
+        - [x] Cube Location: Sand Sea Entrance.
+        - [x] Chest Location: This opens a chest in the Bazaar in Skyloft.
     - [x] Goddess Cube 25:
-        - [x] Volcano Summit -> Isle of Storms, Thunderhead.
+        - [x] Cube Location: Skipper's Retreat.
+        - [x] Chest Location: This opens a chest in the sky on an island to the far west of Skyloft.
     - [x] Goddess Cube 26:
-        - [x] Volcano Summit -> Small island southwest of the Isle of Songs, Thunderhead.
+        - [x] Cube Location: Pirate Hideout.
+        - [x] Chest Location: This opens a chest on the east side of Skyloft.
     - [x] Goddess Cube 27:
-        - [x] Lanayru Gorge -> Small island southwest of the Isle of Songs, Thunderhead.
+        - [x] Cube Location: Tree of Life.
+        - [x] Chest Location: Land on the island in the western area of the Thunderhead.
 - [x] Activate all Bird Statues.
     - [x] Eldin Province (x6).
     ![image](https://user-images.githubusercontent.com/33391637/234373855-68e6d126-ed7c-4c78-be36-bc1106a9f246.png)
@@ -270,14 +298,3 @@
 - [x] Upgrade the Adventure Pouch capacity to 8.
 - [x] Upgrade the Wallet capacity to 9,900 by collecting all 80 Gratitude Crystals.  
 ![image](https://user-images.githubusercontent.com/33391637/233778415-58961c20-1358-48b3-a785-bc1a31825471.png)
-
-
-Screenshots
-![image](https://user-images.githubusercontent.com/33391637/234083053-526d0f80-0887-4168-a742-c798364d577c.png)
-![image](https://user-images.githubusercontent.com/33391637/234083090-1ed1faa3-51cd-42fe-94e5-9d5c3ef915ba.png)
-![image](https://user-images.githubusercontent.com/33391637/234083122-3fe0e053-f756-4710-9651-fdcde7bb2d4b.png)
-![image](https://user-images.githubusercontent.com/33391637/234083141-f2ea6d33-06e4-403c-bcd0-a42b4b950168.png)
-![image](https://user-images.githubusercontent.com/33391637/234083215-e19755f8-ddb1-464c-9d0a-5bb7dff03fb3.png)
-![image](https://user-images.githubusercontent.com/33391637/234083234-ba742742-e700-4015-a449-3c19a4c5f97e.png)
-![image](https://user-images.githubusercontent.com/33391637/234083252-5ac17ac1-9a79-488d-8c20-e059c8c1e07f.png)
-![image](https://user-images.githubusercontent.com/33391637/234083277-84fbff0d-4ab2-490c-9ef4-2df36987bf3c.png)
