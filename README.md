@@ -51,6 +51,7 @@
         - [x] Cube Location: Earth Temple Entrance.
         - [x] Chest Location: This opens a chest in the northeast of Skyloft, southeast of Beedle's Island.
     - [x] Goddess Cube 15:
+        ![image](https://user-images.githubusercontent.com/33391637/235428940-44b257c7-4cd0-42c7-ab3d-c28c3a51fa72.png)
         - [x] Cube Location: Eastern Eldin Volcano.
         - [x] Chest Location: This opens a chest in center of the town of Skyloft.
     - [x] Goddess Cube 16:
@@ -98,7 +99,8 @@
         - [x] Volcano Ascent.
         - [x] Volcano East.
         - [x] Volcano Entry.
-    - [x] Faron Province.
+    - [x] Faron Province (x10).
+    ![image](https://user-images.githubusercontent.com/33391637/235429058-1345bb69-eac4-416f-92c4-5aff78ef7f1a.png)
         - [x] Behind the Temple.
         - [x] Deep Woods.
         - [x] Faron Woods Entry.
