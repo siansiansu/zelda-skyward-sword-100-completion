@@ -1,19 +1,24 @@
 # The 100 Percent Completion Checklist in Zelda Skyward Sword
 
 - [x] 100% complete both Normal and Hero Mode.
+![image](https://user-images.githubusercontent.com/33391637/235417234-20eaf69c-f161-47bf-b050-904d3dc52a33.png)
 - [x] Activate all 27 Goddess Cubes and open their respective Goddess's Treasure Chests.
     - [x] Goddess Cube 1:
         - [x] Deep Woods -> Pumpkin Landing.
+        ![image](https://user-images.githubusercontent.com/33391637/235419722-1b447803-caa1-46e2-958c-fc593c895832.png)
     - [x] Goddess Cube 2:
         - [x] Deep Woods -> Island south of Skyloft.
+        ![image](https://user-images.githubusercontent.com/33391637/235419770-537985ad-b5bf-4d18-9f05-d1d90b314402.png)
     - [x] Goddess Cube 3:
         - [x] Skyview Spring -> Pumpkin Landing.
     - [x] Goddess Cube 4:
         - [x] Eldin Volcano -> Island southwest of Skyloft.
+        ![image](https://user-images.githubusercontent.com/33391637/235419949-9493b40d-c2eb-45e2-bf0f-c81babcca803.png)
     - [x] Goddess Cube 5:
         - [x] Eldin Volcano -> Island far north of Skyloft, next to Bamboo Island.
     - [x] Goddess Cube 6:
         - [x] Eldin Volcano -> Isle of Songs.
+        ![image](https://user-images.githubusercontent.com/33391637/235420057-429de5ca-a2a9-4d38-a684-5aa3109197eb.png)
     - [x] Goddess Cube 7:
         - [x] Eldin Volcano -> Bamboo Island.
     - [x] Goddess Cube 8:
