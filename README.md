@@ -64,6 +64,7 @@
         - [x] Cube Location: Fire Dragon's Domain.
         - [x] Chest Location: Land on the island in the western area of the Thunderhead. You can find a dig spot on one side of the island. One of the dig spot's exits leads to this Chest.
     - [x] Goddess Cube 19:
+    ![image](https://user-images.githubusercontent.com/33391637/235508407-f646e601-d0ae-4302-8877-69b1af8f55c4.png)
         - [x] Cube Location: Lanayru Mines Entrance.
         - [x] Chest Location: This opens a chest northwest of Skyloft, but you'll have to bomb a wall on the marked island to get to it.
     - [x] Goddess Cube 20:
@@ -220,6 +221,7 @@
 - [x] Complete the Thunder Dragon's Lighting Round.
 - [x] Enter each house in Skyloft once.
     - [x] Batreaux's house.
+    ![image](https://user-images.githubusercontent.com/33391637/235508480-d912d9ac-146c-4eab-ae36-675c44a48509.png)
     - [x] Bertie's house.
     ![image](https://user-images.githubusercontent.com/33391637/234373039-02b5e82d-43af-47a3-9fbe-6b5d0758a188.png)
     - [x] Gondo's house.
