@@ -146,8 +146,10 @@
 ![image](https://user-images.githubusercontent.com/33391637/233778366-cea7916f-9b60-4714-923b-6337dade379a.png)
     - [x] Empty Bottle 1:
         - [x] Location: Skyloft.
+        ![image](https://user-images.githubusercontent.com/33391637/235424752-7b79057c-3b1a-4dea-9a8c-f80cbd29d548.png)
     - [x] Empty Bottle 2:
         - [x] Location: Sealed Grounds.
+        ![image](https://user-images.githubusercontent.com/33391637/235424838-e24e9fb5-aa47-4bae-b23c-2e3b01b68a99.png)
     - [x] Empty Bottle 3:
         - [x] Location: Island in the Sky.
     - [x] Empty Bottle 4:
