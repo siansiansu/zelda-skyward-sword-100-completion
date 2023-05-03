@@ -45,6 +45,7 @@
         - [x] Cube Location: Eldin Volcano.
         - [x] Chest Location: This opens a chest on the Isle of Songs in the Thunderhead.
     - [x] Goddess Cube 13:
+    ![image](https://user-images.githubusercontent.com/33391637/236013202-6ededd9e-a6da-44ee-ab86-02860af4b808.png)
         - [x] Cube Location: Earth Temple Entrance.
         - [x] Chest Location: This opens a chest on Bamboo Island.
     - [x] Goddess Cube 14:
@@ -68,9 +69,11 @@
         - [x] Cube Location: Lanayru Mines Entrance.
         - [x] Chest Location: This opens a chest northwest of Skyloft, but you'll have to bomb a wall on the marked island to get to it.
     - [x] Goddess Cube 20:
+    ![image](https://user-images.githubusercontent.com/33391637/236013881-bff265ef-cb7b-4b49-b623-afa718753074.png)
         - [x] Cube Location: Lanayru Desert.
         - [x] Chest Location: South of Skyloft is a floating island with a hollowed-out volcano-like area.
     - [x] Goddess Cube 21:
+    ![image](https://user-images.githubusercontent.com/33391637/236013955-63237008-a1ff-4a8b-b0b5-c885b3a237b9.png)
         - [x] Cube Location: Temple of Time Entrance.
         - [x] Chest Location: The chest it opens is on Beedle's Island in the northeast of the sky.
     - [x] Goddess Cube 22:
@@ -130,6 +133,7 @@
         - [x] Western room with whirlpool.
     - [x] Faron Woods (x1):
         - [x] Outside Sealed Grounds shrine on the path to Faron Woods.
+        ![image](https://user-images.githubusercontent.com/33391637/236012698-6651f81a-8a6f-46c9-9b65-1f705144738c.png)
     - [x] Fire Sanctuary (x1):
         - [x] Once you land after jumping off the Bridge of Decision go up the stairs and look left. You will see the butterflies at the end of the hall.
     - [x] Sandship (x2):
@@ -274,11 +278,14 @@
 - [x] Summon all Gossip Stones.
     - [x] Eldin Volcano (x3):
         - [x] On a platform to the west of the Earth Temple entrance.
+        ![image](https://user-images.githubusercontent.com/33391637/236013330-ea7123cd-220a-4d26-8fb1-1ec62dbd5018.png)
         - [x] Outside of cave above waterfall at the Volcano Summit. You'll need to get the Goddess Cube in the chasm and then use Clawshots to climb to the stone.
         - [x] Outside of entrance to Fire Sanctuary.
     - [x] Faron Woods (x2):
         - [x] In the Deep Woods, just outside Skyview Temple where you talk to Gorko.
+        ![image](https://user-images.githubusercontent.com/33391637/236013531-2a17078f-0f2d-4088-a444-ad529191ba83.png)
         - [x] Outside Sealed Grounds shrine on the path to Faron Woods.
+        ![image](https://user-images.githubusercontent.com/33391637/236012965-85ab51c7-2491-43ce-92fc-d8c9d09bdc64.png)
     - [x] Lake Floria (x2):
         - [x] By the entrance to the Ancient Cistern
         - [x] Just outside the Ancient Cistern entrance a Gossip Stone can be raised for a clue and a Monster Claw.
