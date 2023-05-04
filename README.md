@@ -12,18 +12,21 @@
         - [x] Cube Location: Deep Woods.
         - [x] Chest Location: Small island south of Skyloft.
     - [x] Goddess Cube 3:
+    ![image](https://user-images.githubusercontent.com/33391637/236148170-e5c4ac4e-03d7-4c52-8a98-1db4f6c28553.png)
         - [x] Cube Location: Faron Woods Great Tree.
         - [x] Chest Location: This opens a chest on an island in the northern part of the Thunderhead.
     - [x] Goddess Cube 4:
         - [x] Cube Location: Faron Woods Great Tree.
         - [x] Chest Location: This opens a chest on the west side of Skyloft.
     - [x] Goddess Cube 5:
+    ![image](https://user-images.githubusercontent.com/33391637/236148586-12734e2d-e1da-47e8-ad68-a243b45e52c5.png)
         - [x] Cube Location:Faron Woods Great Tree.
         - [x] Chest Location: Volcano shaped Island East and JUST south of the Lanayru portal.
     - [x] Goddess Cube 6:
         - [x] Cube Location: Skyview Temple Entrance.
         - [x] Chest Location: Beedle's Island.
     - [x] Goddess Cube 7:
+    ![image](https://user-images.githubusercontent.com/33391637/236149047-2a650505-74ee-4a52-b1f1-e0d5fbb9d1fb.png)
         - [x] Cube Location: Skyview Spring.
         - [x] Chest Location: Pumpkin Landing, above the doorway.
     - [x] Goddess Cube 8:
@@ -159,6 +162,7 @@
         ![image](https://user-images.githubusercontent.com/33391637/235424838-e24e9fb5-aa47-4bae-b23c-2e3b01b68a99.png)
     - [x] Empty Bottle 3:
         - [x] Location: Island in the Sky.
+        ![image](https://user-images.githubusercontent.com/33391637/236148633-218bb168-27e3-4cc3-9f7a-d01b36effdee.png)
     - [x] Empty Bottle 4:
         - [x] Location: Fire Sanctuary.
     - [x] Empty Bottle 5:
