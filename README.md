@@ -298,22 +298,24 @@
 - [x] Speak to Strich at night.
 ![image](https://user-images.githubusercontent.com/33391637/234081718-31a50ce2-83f6-4166-a3f2-7b592c01e5f8.png)
 - [x] Summon all Gossip Stones.
-    - [x] Eldin Volcano (x3):
+    - [x] Eldin Volcano (x4):
         - [x] On a platform to the west of the Earth Temple entrance.
         ![image](https://user-images.githubusercontent.com/33391637/236013330-ea7123cd-220a-4d26-8fb1-1ec62dbd5018.png)
         - [x] Outside of cave above waterfall at the Volcano Summit. You'll need to get the Goddess Cube in the chasm and then use Clawshots to climb to the stone.
         ![image](https://user-images.githubusercontent.com/33391637/236614089-c84d6a33-eb02-4848-96a7-3b02598e171e.png)
         - [x] Outside of entrance to Fire Sanctuary.
         ![image](https://user-images.githubusercontent.com/33391637/236612327-36e3688f-fe89-4a43-aa64-dc47a9a7b5f5.png)
+        - [x] West Side of the Thrill Digger Area.
+        ![image](https://user-images.githubusercontent.com/33391637/236614662-69444274-1628-4e51-ba21-3c628a2efbf1.png)
     - [x] Faron Woods (x2):
         - [x] In the Deep Woods, just outside Skyview Temple where you talk to Gorko.
         ![image](https://user-images.githubusercontent.com/33391637/236013531-2a17078f-0f2d-4088-a444-ad529191ba83.png)
         - [x] Outside Sealed Grounds shrine on the path to Faron Woods.
         ![image](https://user-images.githubusercontent.com/33391637/236012965-85ab51c7-2491-43ce-92fc-d8c9d09bdc64.png)
-    - [x] Lake Floria (x2):
-        - [x] By the entrance to the Ancient Cistern
+    - [x] Lake Floria (x1):
         - [x] Just outside the Ancient Cistern entrance a Gossip Stone can be raised for a clue and a Monster Claw.
-    - [x] Lanayru Desert:
+        ![image](https://user-images.githubusercontent.com/33391637/236614480-d3c48953-b1d5-4ed1-b71a-85d4c0b5d75d.png)
+    - [x] Lanayru Desert (x1):
     ![image](https://user-images.githubusercontent.com/33391637/236612465-cb8202ef-36c2-4f7e-98a0-0f2ba6404bbb.png)
         - [x] In Lanayru Caves right before you exit to Lanayru Gorge.
         ![image](https://user-images.githubusercontent.com/33391637/236612388-2fd2f9f2-f98e-482a-8231-49871d390eea.png)
