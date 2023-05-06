@@ -314,6 +314,7 @@
     - [x] Sheikah Stone #7: On the Ledge Left of the Earth Temple
     ![image](https://user-images.githubusercontent.com/33391637/236013330-ea7123cd-220a-4d26-8fb1-1ec62dbd5018.png)
     - [x] Sheikah Stone #8: Left of the Minecart in the Temple of Time.
+    ![image](https://user-images.githubusercontent.com/33391637/236644067-28f169cd-ca8f-465b-92f3-5f2f0840ca8c.png)
     - [x] Sheikah Stone #9: On the Cave with the Second Frog Statue
     ![image](https://user-images.githubusercontent.com/33391637/236612327-36e3688f-fe89-4a43-aa64-dc47a9a7b5f5.png)
     - [x] Sheikah Stone #10: In an Island Southeast of the Yellow Beam.
