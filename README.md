@@ -318,6 +318,7 @@
     - [x] Sheikah Stone #9: On the Cave with the Second Frog Statue
     ![image](https://user-images.githubusercontent.com/33391637/236612327-36e3688f-fe89-4a43-aa64-dc47a9a7b5f5.png)
     - [x] Sheikah Stone #10: In an Island Southeast of the Yellow Beam.
+    ![image](https://user-images.githubusercontent.com/33391637/236644110-c303d7c1-4f4f-4b87-b337-67b7db7c0e19.png)
     - [x] Sheikah Stone #11: At the Center of the Lanayru Caves.
     ![image](https://user-images.githubusercontent.com/33391637/236614089-c84d6a33-eb02-4848-96a7-3b02598e171e.png)    
     - [x] Sheikah Stone #12: On the Narrow Path at the Lanayru Caves
