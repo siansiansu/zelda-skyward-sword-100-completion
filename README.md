@@ -16,13 +16,15 @@
         - [x] Cube Location: Faron Woods Great Tree.
         - [x] Chest Location: This opens a chest on an island in the northern part of the Thunderhead.
     - [x] Goddess Cube 4:
+    ![image](https://user-images.githubusercontent.com/33391637/236148586-12734e2d-e1da-47e8-ad68-a243b45e52c5.png)    
         - [x] Cube Location: Faron Woods Great Tree.
         - [x] Chest Location: This opens a chest on the west side of Skyloft.
     - [x] Goddess Cube 5:
-    ![image](https://user-images.githubusercontent.com/33391637/236148586-12734e2d-e1da-47e8-ad68-a243b45e52c5.png)
+    ![image](https://user-images.githubusercontent.com/33391637/236611045-3ac45823-f0eb-4443-822e-5c05d5647775.png)    
         - [x] Cube Location:Faron Woods Great Tree.
         - [x] Chest Location: Volcano shaped Island East and JUST south of the Lanayru portal.
     - [x] Goddess Cube 6:
+    ![image](https://user-images.githubusercontent.com/33391637/236611075-0093e935-7d8f-469f-aadd-4585160b27b9.png)
         - [x] Cube Location: Skyview Temple Entrance.
         - [x] Chest Location: Beedle's Island.
     - [x] Goddess Cube 7:
@@ -33,6 +35,7 @@
         - [x] Cube Location: Under Lake Floria.
         - [x] Chest Location: You need the Clawshots to get to the chest on the east side of Skyloft.
     - [x] Goddess Cube 9:
+    ![image](https://user-images.githubusercontent.com/33391637/236611111-8e9915cc-43bb-4198-93c1-5ba90260e616.png)
         - [x] Cube Location: Ancient Cistern Entrance.
         - [x] Chest Location: On a small island under Fun-Fun Island.
     - [x] Goddess Cube 10:
@@ -62,6 +65,7 @@
         - [x] Cube Location: Fire Sanctuary Entrance.
         - [x] Chest Location: This chest is on Bug Island in the Thunderhead.
     - [x] Goddess Cube 17:
+    ![image](https://user-images.githubusercontent.com/33391637/236611180-8346fe3e-16e9-47bf-8ade-44daf745ee0c.png)
         - [x] Cube Location: Fire Sanctuary Entrance.
         - [x] Chest Location: On the roof of the Isle of Storms building in the Thunderhead.
     - [x] Goddess Cube 18:
