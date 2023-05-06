@@ -298,34 +298,35 @@
 ![image](https://user-images.githubusercontent.com/33391637/234081631-4a8de449-9ae1-43a1-ab57-c342b36fb5bd.png)
 - [x] Speak to Strich at night.
 ![image](https://user-images.githubusercontent.com/33391637/234081718-31a50ce2-83f6-4166-a3f2-7b592c01e5f8.png)
-- [x] Summon all Gossip Stones.
-    - [x] Eldin Volcano (x4):
-        - [x] On a platform to the west of the Earth Temple entrance.
-        ![image](https://user-images.githubusercontent.com/33391637/236013330-ea7123cd-220a-4d26-8fb1-1ec62dbd5018.png)
-        - [x] Outside of cave above waterfall at the Volcano Summit. You'll need to get the Goddess Cube in the chasm and then use Clawshots to climb to the stone.
-        ![image](https://user-images.githubusercontent.com/33391637/236614089-c84d6a33-eb02-4848-96a7-3b02598e171e.png)
-        - [x] Outside of entrance to Fire Sanctuary.
-        ![image](https://user-images.githubusercontent.com/33391637/236612327-36e3688f-fe89-4a43-aa64-dc47a9a7b5f5.png)
-        - [x] West Side of the Thrill Digger Area.
-        ![image](https://user-images.githubusercontent.com/33391637/236614662-69444274-1628-4e51-ba21-3c628a2efbf1.png)
-    - [x] Faron Woods (x2):
-        - [x] In the Deep Woods, just outside Skyview Temple where you talk to Gorko.
-        ![image](https://user-images.githubusercontent.com/33391637/236013531-2a17078f-0f2d-4088-a444-ad529191ba83.png)
-        - [x] Outside Sealed Grounds shrine on the path to Faron Woods.
-        ![image](https://user-images.githubusercontent.com/33391637/236012965-85ab51c7-2491-43ce-92fc-d8c9d09bdc64.png)
-    - [x] Lake Floria (x1):
-        - [x] Just outside the Ancient Cistern entrance a Gossip Stone can be raised for a clue and a Monster Claw.
-        ![image](https://user-images.githubusercontent.com/33391637/236614480-d3c48953-b1d5-4ed1-b71a-85d4c0b5d75d.png)
-    - [x] Lanayru Desert (x1):
-        - [x] In Lanayru Caves right before you exit to Lanayru Gorge.
-        ![image](https://user-images.githubusercontent.com/33391637/236612388-2fd2f9f2-f98e-482a-8231-49871d390eea.png)
-    - [x] In the Sky (x4):
-        - [x] Inside the thicket on Bamboo Island.
-        ![image](https://user-images.githubusercontent.com/33391637/234082446-c891d8f9-6a0d-4dec-b94d-5c75fb7c6802.png)
-        - [x] On a small island south of Bug Island.
-        - [x] On an island southwest of Skyloft in a volcano-like cone.
-        - [x] On waterfall platform above Skyloft on the east side of town. You need the Clawshots to get here.
-        ![image](https://user-images.githubusercontent.com/33391637/236611702-52d4f080-c11e-4c14-8301-e9ac87822c78.png)
+- [x] Summon all Sheikah Stones.
+    - [x] Sheikah Stone #1: Outside the Sealed Grounds.
+    ![image](https://user-images.githubusercontent.com/33391637/236013531-2a17078f-0f2d-4088-a444-ad529191ba83.png)
+    - [x] Sheikah Stone #2: Outside the Ancient Cistern.
+    ![image](https://user-images.githubusercontent.com/33391637/236614480-d3c48953-b1d5-4ed1-b71a-85d4c0b5d75d.png)
+    - [x] Sheikah Stone #3: On the Ledges near the Skyview Temple.
+    ![image](https://user-images.githubusercontent.com/33391637/236012965-85ab51c7-2491-43ce-92fc-d8c9d09bdc64.png)
+    - [x] Sheikah Stone #4: Left of the Lumpy Pumpkin at Pumpkin Island
+    ![image](https://user-images.githubusercontent.com/33391637/236643614-ebbdcfb8-e419-4a6b-9571-7a15cc0a7a2d.png)
+    - [x] Sheikah Stone #5: Inside the House in Bamboo Island
+    ![image](https://user-images.githubusercontent.com/33391637/234082446-c891d8f9-6a0d-4dec-b94d-5c75fb7c6802.png)
+    - [x] Sheikah Stone #6: West Side of the Thrill Digger Area
+    ![image](https://user-images.githubusercontent.com/33391637/236614662-69444274-1628-4e51-ba21-3c628a2efbf1.png)    
+    - [x] Sheikah Stone #7: On the Ledge Left of the Earth Temple
+    ![image](https://user-images.githubusercontent.com/33391637/236013330-ea7123cd-220a-4d26-8fb1-1ec62dbd5018.png)
+    - [x] Sheikah Stone #8: Left of the Minecart in the Temple of Time.
+    - [x] Sheikah Stone #9: On the Cave with the Second Frog Statue
+    ![image](https://user-images.githubusercontent.com/33391637/236612327-36e3688f-fe89-4a43-aa64-dc47a9a7b5f5.png)
+    - [x] Sheikah Stone #10: In an Island Southeast of the Yellow Beam.
+    - [x] Sheikah Stone #11: At the Center of the Lanayru Caves.
+    ![image](https://user-images.githubusercontent.com/33391637/236614089-c84d6a33-eb02-4848-96a7-3b02598e171e.png)    
+    - [x] Sheikah Stone #12: On the Narrow Path at the Lanayru Caves
+    - [x] Sheikah Stone #13: At the Southeastern Lava Plates Area at the Eldin Volcano
+    - [x] Sheikah Stone #14: On a Cave Southeast of the Earth Temple
+    - [x] Sheikah Stone #15: On the Island South of Bug Rock
+    - [x] Sheikah Stone #16: Reach the Top Ledge on the Waterfalls in Volcano Summit.
+    ![image](https://user-images.githubusercontent.com/33391637/236614089-c84d6a33-eb02-4848-96a7-3b02598e171e.png)    
+    - [x] Sheikah Stone #17: Use the Clawshots to Reach the Top of the Waterfall Island.
+    ![image](https://user-images.githubusercontent.com/33391637/236611702-52d4f080-c11e-4c14-8301-e9ac87822c78.png)
 - [x] Unlock all five extra Dowsing targets.
     - [x] Goddess Cubes.
     ![image](https://user-images.githubusercontent.com/33391637/234081852-07ab5b45-d22f-4b7e-981f-2204623c44ae.png)
