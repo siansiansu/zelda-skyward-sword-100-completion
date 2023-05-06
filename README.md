@@ -56,6 +56,7 @@
         - [x] Cube Location: Earth Temple Entrance.
         - [x] Chest Location: This opens a chest on Bamboo Island.
     - [x] Goddess Cube 14:
+    ![image](https://user-images.githubusercontent.com/33391637/236614067-652f530c-b235-4f7e-b0ff-99ccbe6d0852.png)
         - [x] Cube Location: Earth Temple Entrance.
         - [x] Chest Location: This opens a chest in the northeast of Skyloft, southeast of Beedle's Island.
     - [x] Goddess Cube 15:
@@ -63,6 +64,7 @@
         - [x] Cube Location: Eastern Eldin Volcano.
         - [x] Chest Location: This opens a chest in center of the town of Skyloft.
     - [x] Goddess Cube 16:
+    ![image](https://user-images.githubusercontent.com/33391637/236614029-d293cda4-e1b6-4717-99ba-103445e496d7.png)
         - [x] Cube Location: Fire Sanctuary Entrance.
         - [x] Chest Location: This chest is on Bug Island in the Thunderhead.
     - [x] Goddess Cube 17:
@@ -300,6 +302,7 @@
         - [x] On a platform to the west of the Earth Temple entrance.
         ![image](https://user-images.githubusercontent.com/33391637/236013330-ea7123cd-220a-4d26-8fb1-1ec62dbd5018.png)
         - [x] Outside of cave above waterfall at the Volcano Summit. You'll need to get the Goddess Cube in the chasm and then use Clawshots to climb to the stone.
+        ![image](https://user-images.githubusercontent.com/33391637/236614089-c84d6a33-eb02-4848-96a7-3b02598e171e.png)
         - [x] Outside of entrance to Fire Sanctuary.
         ![image](https://user-images.githubusercontent.com/33391637/236612327-36e3688f-fe89-4a43-aa64-dc47a9a7b5f5.png)
     - [x] Faron Woods (x2):
