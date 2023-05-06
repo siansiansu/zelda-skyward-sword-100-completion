@@ -320,7 +320,7 @@
     - [x] Sheikah Stone #10: In an Island Southeast of the Yellow Beam.
     ![image](https://user-images.githubusercontent.com/33391637/236644110-c303d7c1-4f4f-4b87-b337-67b7db7c0e19.png)
     - [x] Sheikah Stone #11: At the Center of the Lanayru Caves.
-    ![image](https://user-images.githubusercontent.com/33391637/236614089-c84d6a33-eb02-4848-96a7-3b02598e171e.png)    
+    ![image](https://user-images.githubusercontent.com/33391637/236644183-ef0706e9-4c37-4996-9f67-6de4523b84d6.png)
     - [x] Sheikah Stone #12: On the Narrow Path at the Lanayru Caves
     - [x] Sheikah Stone #13: At the Southeastern Lava Plates Area at the Eldin Volcano
     - [x] Sheikah Stone #14: On a Cave Southeast of the Earth Temple
