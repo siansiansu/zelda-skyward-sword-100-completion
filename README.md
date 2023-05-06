@@ -88,6 +88,7 @@
         - [x] Cube Location: Lanayru Desert.
         - [x] Chest Location: An island between the Bamboo Island and Beedle's Island.
     - [x] Goddess Cube 23:
+    ![image](https://user-images.githubusercontent.com/33391637/236612362-3187baf6-d8bd-49b0-9249-0db0ebd6e2dd.png)
         - [x] Cube Location: Lanayru Mining Facility Entrance.
         - [x] Chest Location: An island northwest of Fun-Fun Island.
     - [x] Goddess Cube 24:
@@ -142,6 +143,7 @@
 - [x] Activate all Goddess Walls.
     - [x] Ancient Cistern (x1):
         - [x] Western room with whirlpool.
+        ![image](https://user-images.githubusercontent.com/33391637/236612377-eff93188-1561-47e1-81d5-b0dc6e1b5b22.png)
     - [x] Faron Woods (x1):
         - [x] Outside Sealed Grounds shrine on the path to Faron Woods.
         ![image](https://user-images.githubusercontent.com/33391637/236012698-6651f81a-8a6f-46c9-9b65-1f705144738c.png)
@@ -149,7 +151,7 @@
         - [x] Once you land after jumping off the Bridge of Decision go up the stairs and look left. You will see the butterflies at the end of the hall.
     - [x] Sandship (x2):
         - [x] Floor B1, turn left from the first set of stairs leading down from 1F to face a wall, then turn left again to face the hallway. You will see butterflies down the hallway after the chandelier.
-        ![image](https://user-images.githubusercontent.com/33391637/236612199-1e66a190-46aa-4426-ac72-34d1cf9f6fbb.png)
+        ![image](https://user-images.githubusercontent.com/33391637/236612315-a5ec6fa8-5a99-443b-a4f3-570a72f7721b.png)
         - [x] While on the deck of the ship, after you have gone as high as you can on the Crow's Nests and begin making your descent, make your way to the back of the ship (head east on the map). When you're standing on the deck on the back of the ship, you'll see a mast with a clawshot target. If you follow the clawshots you'll find a platform with a Goddess Wall and a chest containing a Piece of Heart.
         ![image](https://user-images.githubusercontent.com/33391637/236612188-44f30630-3f4c-46c7-a62f-34fbde2df58d.png)
     - [x] Skyview Temple (x1):
@@ -295,6 +297,7 @@
         ![image](https://user-images.githubusercontent.com/33391637/236013330-ea7123cd-220a-4d26-8fb1-1ec62dbd5018.png)
         - [x] Outside of cave above waterfall at the Volcano Summit. You'll need to get the Goddess Cube in the chasm and then use Clawshots to climb to the stone.
         - [x] Outside of entrance to Fire Sanctuary.
+        ![image](https://user-images.githubusercontent.com/33391637/236612327-36e3688f-fe89-4a43-aa64-dc47a9a7b5f5.png)
     - [x] Faron Woods (x2):
         - [x] In the Deep Woods, just outside Skyview Temple where you talk to Gorko.
         ![image](https://user-images.githubusercontent.com/33391637/236013531-2a17078f-0f2d-4088-a444-ad529191ba83.png)
@@ -304,7 +307,9 @@
         - [x] By the entrance to the Ancient Cistern
         - [x] Just outside the Ancient Cistern entrance a Gossip Stone can be raised for a clue and a Monster Claw.
     - [x] Lanayru Desert:
+    ![image](https://user-images.githubusercontent.com/33391637/236612465-cb8202ef-36c2-4f7e-98a0-0f2ba6404bbb.png)
         - [x] In Lanayru Caves right before you exit to Lanayru Gorge.
+        ![image](https://user-images.githubusercontent.com/33391637/236612388-2fd2f9f2-f98e-482a-8231-49871d390eea.png)
     - [x] In the Sky (x4):
         - [x] Inside the thicket on Bamboo Island.
         ![image](https://user-images.githubusercontent.com/33391637/234082446-c891d8f9-6a0d-4dec-b94d-5c75fb7c6802.png)
