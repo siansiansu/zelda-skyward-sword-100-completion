@@ -32,6 +32,7 @@
         - [x] Cube Location: Skyview Spring.
         - [x] Chest Location: Pumpkin Landing, above the doorway.
     - [x] Goddess Cube 8:
+    ![image](https://user-images.githubusercontent.com/33391637/236612754-5507ea43-9267-4cbb-b983-8781e1b24287.png)
         - [x] Cube Location: Under Lake Floria.
         - [x] Chest Location: You need the Clawshots to get to the chest on the east side of Skyloft.
     - [x] Goddess Cube 9:
@@ -143,12 +144,12 @@
 - [x] Activate all Goddess Walls.
     - [x] Ancient Cistern (x1):
         - [x] Western room with whirlpool.
-        ![image](https://user-images.githubusercontent.com/33391637/236612377-eff93188-1561-47e1-81d5-b0dc6e1b5b22.png)
+        ![image](https://user-images.githubusercontent.com/33391637/236612705-2e0d6e8e-7060-4baa-a982-3e6a095758d2.png)        
     - [x] Faron Woods (x1):
         - [x] Outside Sealed Grounds shrine on the path to Faron Woods.
-        ![image](https://user-images.githubusercontent.com/33391637/236012698-6651f81a-8a6f-46c9-9b65-1f705144738c.png)
     - [x] Fire Sanctuary (x1):
         - [x] Once you land after jumping off the Bridge of Decision go up the stairs and look left. You will see the butterflies at the end of the hall.
+        ![image](https://user-images.githubusercontent.com/33391637/236612377-eff93188-1561-47e1-81d5-b0dc6e1b5b22.png)        
     - [x] Sandship (x2):
         - [x] Floor B1, turn left from the first set of stairs leading down from 1F to face a wall, then turn left again to face the hallway. You will see butterflies down the hallway after the chandelier.
         ![image](https://user-images.githubusercontent.com/33391637/236612315-a5ec6fa8-5a99-443b-a4f3-570a72f7721b.png)
@@ -156,10 +157,13 @@
         ![image](https://user-images.githubusercontent.com/33391637/236612188-44f30630-3f4c-46c7-a62f-34fbde2df58d.png)
     - [x] Skyview Temple (x1):
         - [x] Just down stairs from the entrance.
+        ![image](https://user-images.githubusercontent.com/33391637/236012698-6651f81a-8a6f-46c9-9b65-1f705144738c.png)        
 - [x] Collect all 10 Medals.
     - [x] Bug Medal.
     - [x] Cursed Medal.
+    ![image](https://user-images.githubusercontent.com/33391637/236612849-cc4629e9-a3e5-4e74-a324-a1b75aeb939a.png)
     - [x] Heart Medal (x2).
+    ![image](https://user-images.githubusercontent.com/33391637/236612997-aff85095-c7ab-478b-9550-355ba40ee671.png)    
     - [x] Life Medal (x2).
     - [x] Potion Medal.
     - [x] Rupee Medal (x2).
@@ -266,13 +270,13 @@
 ![image](https://user-images.githubusercontent.com/33391637/234082542-c94be3d5-df89-4b57-bd51-195e1cada7ac.png)
 - [x] Obtain the highest upgrades.
     - [x] Big Bug Net.  
-    ![image](https://user-images.githubusercontent.com/33391637/233778402-1df7925c-ca19-44a9-ac12-04f9fa9cfd67.png)
+    ![image](https://user-images.githubusercontent.com/33391637/236612859-9069bc9e-a7ef-4653-b88b-6e9a65d2233a.png)
     - [x] Braced Shield.  
     ![image](https://user-images.githubusercontent.com/33391637/233820837-51b41392-d8c1-48e3-9c75-45c4cd02d487.png)
     - [x] Fortified Shield.  
     ![image](https://user-images.githubusercontent.com/33391637/233820827-b8290ba2-4552-460f-a3db-ba9b931ffef8.png)
     - [x] Goddess Shield.  
-    ![image](https://user-images.githubusercontent.com/33391637/233820832-e68fb622-12d2-4608-bca7-b879c58b2430.png)
+    ![image](https://user-images.githubusercontent.com/33391637/236612929-89265d6f-ebb6-46ca-9b42-33570acd40fe.png)
     - [x] Large Bomb Bag.  
     ![image](https://user-images.githubusercontent.com/33391637/233820784-2cdd82e4-9e4c-4b58-a8aa-7a99eca16bcf.png)
     - [x] Large Quiver.  
@@ -282,9 +286,9 @@
     - [x] Sacred Bow.  
     ![image](https://user-images.githubusercontent.com/33391637/233820817-0176f19d-e127-4964-83b2-707763da856a.png)
     - [x] Scattershot.  
-    ![image](https://user-images.githubusercontent.com/33391637/233778398-a0617afa-f81c-44e7-a2ff-66d1444bb473.png)
+    ![image](https://user-images.githubusercontent.com/33391637/236612983-d120d5c4-e3ea-4450-93ae-ff3e34ebd19c.png)
     - [x] Tough Beetle.  
-    ![image](https://user-images.githubusercontent.com/33391637/233778386-c03a125e-48df-4a25-98c5-19cb9f12ec25.png)
+    ![image](https://user-images.githubusercontent.com/33391637/236612958-2be7ef35-d5ec-4ba6-b585-8f2b489efe55.png)
 - [x] Reach over 28 hits in Clean Cut.
 ![image](https://user-images.githubusercontent.com/33391637/234082506-bd4b96fc-685a-4dbe-9931-447223d9d9a7.png)
 - [x] Speak to Rupin at night.
