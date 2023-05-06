@@ -88,6 +88,7 @@
         - [x] Cube Location: Temple of Time Entrance.
         - [x] Chest Location: The chest it opens is on Beedle's Island in the northeast of the sky.
     - [x] Goddess Cube 22:
+    ![image](https://user-images.githubusercontent.com/33391637/236612465-cb8202ef-36c2-4f7e-98a0-0f2ba6404bbb.png)    
         - [x] Cube Location: Lanayru Desert.
         - [x] Chest Location: An island between the Bamboo Island and Beedle's Island.
     - [x] Goddess Cube 23:
@@ -316,7 +317,6 @@
         - [x] Just outside the Ancient Cistern entrance a Gossip Stone can be raised for a clue and a Monster Claw.
         ![image](https://user-images.githubusercontent.com/33391637/236614480-d3c48953-b1d5-4ed1-b71a-85d4c0b5d75d.png)
     - [x] Lanayru Desert (x1):
-    ![image](https://user-images.githubusercontent.com/33391637/236612465-cb8202ef-36c2-4f7e-98a0-0f2ba6404bbb.png)
         - [x] In Lanayru Caves right before you exit to Lanayru Gorge.
         ![image](https://user-images.githubusercontent.com/33391637/236612388-2fd2f9f2-f98e-482a-8231-49871d390eea.png)
     - [x] In the Sky (x4):
