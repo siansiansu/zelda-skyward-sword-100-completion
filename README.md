@@ -184,8 +184,10 @@
         ![image](https://user-images.githubusercontent.com/33391637/236148633-218bb168-27e3-4cc3-9f7a-d01b36effdee.png)
     - [x] Empty Bottle 4:
         - [x] Location: Fire Sanctuary.
+        ![image](https://user-images.githubusercontent.com/33391637/236644514-54c294fe-c87b-48e6-b434-d4e9f185178e.png)
     - [x] Empty Bottle 5:
         - [x] Location: The Thunderhead.
+        ![image](https://user-images.githubusercontent.com/33391637/236644509-9c569b2e-4800-46bb-a5a6-042c6673e3fc.png)
 - [x] Collect one of all 12 Bugs.
     - [x] Blessed Butterfly.
     ![image](https://user-images.githubusercontent.com/33391637/233824352-78d0bd36-8beb-4892-b912-ad90b5137871.png)
@@ -322,6 +324,7 @@
     - [x] Sheikah Stone #11: At the Center of the Lanayru Caves.
     ![image](https://user-images.githubusercontent.com/33391637/236644183-ef0706e9-4c37-4996-9f67-6de4523b84d6.png)
     - [x] Sheikah Stone #12: On the Narrow Path at the Lanayru Caves
+    ![image](https://user-images.githubusercontent.com/33391637/236644473-82c45bf0-2c31-4a6f-98d6-6058ec929c7a.png)
     - [x] Sheikah Stone #13: At the Southeastern Lava Plates Area at the Eldin Volcano
     - [x] Sheikah Stone #14: On a Cave Southeast of the Earth Temple
     - [x] Sheikah Stone #15: On the Island South of Bug Rock
