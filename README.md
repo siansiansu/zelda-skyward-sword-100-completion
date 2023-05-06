@@ -69,6 +69,7 @@
         - [x] Cube Location: Fire Sanctuary Entrance.
         - [x] Chest Location: On the roof of the Isle of Storms building in the Thunderhead.
     - [x] Goddess Cube 18:
+    ![image](https://user-images.githubusercontent.com/33391637/236612155-63d33674-f001-4551-a84a-dfa04fc5ebaa.png)
         - [x] Cube Location: Fire Dragon's Domain.
         - [x] Chest Location: Land on the island in the western area of the Thunderhead. You can find a dig spot on one side of the island. One of the dig spot's exits leads to this Chest.
     - [x] Goddess Cube 19:
@@ -90,12 +91,15 @@
         - [x] Cube Location: Lanayru Mining Facility Entrance.
         - [x] Chest Location: An island northwest of Fun-Fun Island.
     - [x] Goddess Cube 24:
+    ![image](https://user-images.githubusercontent.com/33391637/236611817-f9dbe7ba-85af-44bf-bb9d-9edfc1cdf700.png)
         - [x] Cube Location: Sand Sea Entrance.
         - [x] Chest Location: This opens a chest in the Bazaar in Skyloft.
     - [x] Goddess Cube 25:
+    ![image](https://user-images.githubusercontent.com/33391637/236611804-e07d1598-7d37-47d9-8ef6-c8ecc71bbc24.png)
         - [x] Cube Location: Skipper's Retreat.
         - [x] Chest Location: This opens a chest in the sky on an island to the far west of Skyloft.
     - [x] Goddess Cube 26:
+    ![image](https://user-images.githubusercontent.com/33391637/236611743-45f2e1d4-3b55-4da5-8a31-e160aebe42d5.png)
         - [x] Cube Location: Pirate Hideout.
         - [x] Chest Location: This opens a chest on the east side of Skyloft.
     - [x] Goddess Cube 27:
@@ -145,7 +149,9 @@
         - [x] Once you land after jumping off the Bridge of Decision go up the stairs and look left. You will see the butterflies at the end of the hall.
     - [x] Sandship (x2):
         - [x] Floor B1, turn left from the first set of stairs leading down from 1F to face a wall, then turn left again to face the hallway. You will see butterflies down the hallway after the chandelier.
+        ![image](https://user-images.githubusercontent.com/33391637/236612199-1e66a190-46aa-4426-ac72-34d1cf9f6fbb.png)
         - [x] While on the deck of the ship, after you have gone as high as you can on the Crow's Nests and begin making your descent, make your way to the back of the ship (head east on the map). When you're standing on the deck on the back of the ship, you'll see a mast with a clawshot target. If you follow the clawshots you'll find a platform with a Goddess Wall and a chest containing a Piece of Heart.
+        ![image](https://user-images.githubusercontent.com/33391637/236612188-44f30630-3f4c-46c7-a62f-34fbde2df58d.png)
     - [x] Skyview Temple (x1):
         - [x] Just down stairs from the entrance.
 - [x] Collect all 10 Medals.
@@ -305,6 +311,7 @@
         - [x] On a small island south of Bug Island.
         - [x] On an island southwest of Skyloft in a volcano-like cone.
         - [x] On waterfall platform above Skyloft on the east side of town. You need the Clawshots to get here.
+        ![image](https://user-images.githubusercontent.com/33391637/236611702-52d4f080-c11e-4c14-8301-e9ac87822c78.png)
 - [x] Unlock all five extra Dowsing targets.
     - [x] Goddess Cubes.
     ![image](https://user-images.githubusercontent.com/33391637/234081852-07ab5b45-d22f-4b7e-981f-2204623c44ae.png)
