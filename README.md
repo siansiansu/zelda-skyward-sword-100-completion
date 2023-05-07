@@ -108,6 +108,7 @@
         - [x] Cube Location: Pirate Hideout.
         - [x] Chest Location: This opens a chest on the east side of Skyloft.
     - [x] Goddess Cube 27:
+    ![image](https://user-images.githubusercontent.com/33391637/236658901-36c244da-eb35-401a-a7fe-d1366babadc8.png)
         - [x] Cube Location: Tree of Life.
         - [x] Chest Location: Land on the island in the western area of the Thunderhead.
 - [x] Activate all Bird Statues.
@@ -326,6 +327,7 @@
     - [x] Sheikah Stone #12: On the Narrow Path at the Lanayru Caves
     ![image](https://user-images.githubusercontent.com/33391637/236644473-82c45bf0-2c31-4a6f-98d6-6058ec929c7a.png)
     - [x] Sheikah Stone #13: At the Southeastern Lava Plates Area at the Eldin Volcano
+    ![image](https://user-images.githubusercontent.com/33391637/236658876-fd4b7f71-9825-48f5-a755-517f7c89226b.png)
     - [x] Sheikah Stone #14: On a Cave Southeast of the Earth Temple
     - [x] Sheikah Stone #15: On the Island South of Bug Rock
     - [x] Sheikah Stone #16: Reach the Top Ledge on the Waterfalls in Volcano Summit.
