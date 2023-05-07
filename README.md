@@ -133,6 +133,7 @@
         - [x] Sealed Grounds.
         - [x] Viewing Platform.
     - [x] Lanayru Province.
+    ![image](https://user-images.githubusercontent.com/33391637/236683136-85b10752-18dd-4d25-8e25-33c1c9b38537.png)
         - [x] Ancient Harbor.
         - [x] Desert Entrance.
         - [x] Desert Gorge.
