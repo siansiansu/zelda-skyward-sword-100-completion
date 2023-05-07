@@ -151,6 +151,7 @@
         ![image](https://user-images.githubusercontent.com/33391637/236612705-2e0d6e8e-7060-4baa-a982-3e6a095758d2.png)        
     - [x] Faron Woods (x1):
         - [x] Outside Sealed Grounds shrine on the path to Faron Woods.
+        ![image](https://user-images.githubusercontent.com/33391637/236682721-f4425986-a59b-4c6b-97e2-dccc45478fef.png)
     - [x] Fire Sanctuary (x1):
         - [x] Once you land after jumping off the Bridge of Decision go up the stairs and look left. You will see the butterflies at the end of the hall.
         ![image](https://user-images.githubusercontent.com/33391637/236612377-eff93188-1561-47e1-81d5-b0dc6e1b5b22.png)        
@@ -164,14 +165,19 @@
         ![image](https://user-images.githubusercontent.com/33391637/236012698-6651f81a-8a6f-46c9-9b65-1f705144738c.png)        
 - [x] Collect all 10 Medals.
     - [x] Bug Medal.
+    ![image](https://user-images.githubusercontent.com/33391637/236682984-3a929c5b-d0e1-41c5-b977-99af2d4f48a7.png)
     - [x] Cursed Medal.
     ![image](https://user-images.githubusercontent.com/33391637/236612849-cc4629e9-a3e5-4e74-a324-a1b75aeb939a.png)
     - [x] Heart Medal (x2).
     ![image](https://user-images.githubusercontent.com/33391637/236612997-aff85095-c7ab-478b-9550-355ba40ee671.png)    
     - [x] Life Medal (x2).
+    ![image](https://user-images.githubusercontent.com/33391637/236682850-44bd7d4c-ab4c-4a40-abfd-6bd708131238.png)
     - [x] Potion Medal.
+    ![image](https://user-images.githubusercontent.com/33391637/236682837-e835750a-06e3-49c5-a535-5b9de3cfea44.png)
     - [x] Rupee Medal (x2).
+    ![image](https://user-images.githubusercontent.com/33391637/236682810-5b7fa5bd-3295-4f9c-9a1c-e7450ba5999c.png)
     - [x] Treasure Medal.
+    ![image](https://user-images.githubusercontent.com/33391637/236682861-5348fff5-f4fe-40b2-bcf7-801faec46a0c.png)
 - [x] Collect all five Empty Bottles.  
 ![image](https://user-images.githubusercontent.com/33391637/233778366-cea7916f-9b60-4714-923b-6337dade379a.png)
     - [x] Empty Bottle 1:
