@@ -170,7 +170,7 @@
     - [x] Cursed Medal.
     ![image](https://user-images.githubusercontent.com/33391637/236612849-cc4629e9-a3e5-4e74-a324-a1b75aeb939a.png)
     - [x] Heart Medal (x2).
-    ![image](https://user-images.githubusercontent.com/33391637/236612997-aff85095-c7ab-478b-9550-355ba40ee671.png)    
+    ![image](https://user-images.githubusercontent.com/33391637/236683430-b90d921e-dab5-40e7-9f67-65d8af06ac65.png)
     - [x] Life Medal (x2).
     ![image](https://user-images.githubusercontent.com/33391637/236682850-44bd7d4c-ab4c-4a40-abfd-6bd708131238.png)
     - [x] Potion Medal.
