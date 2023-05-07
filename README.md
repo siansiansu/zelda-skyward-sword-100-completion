@@ -329,7 +329,9 @@
     - [x] Sheikah Stone #13: At the Southeastern Lava Plates Area at the Eldin Volcano
     ![image](https://user-images.githubusercontent.com/33391637/236658876-fd4b7f71-9825-48f5-a755-517f7c89226b.png)
     - [x] Sheikah Stone #14: On a Cave Southeast of the Earth Temple
+    ![image](https://user-images.githubusercontent.com/33391637/236682552-436d7fe2-a4b7-4a6b-bfc2-b6fdfe1bb210.png)
     - [x] Sheikah Stone #15: On the Island South of Bug Rock
+    ![image](https://user-images.githubusercontent.com/33391637/236682563-5ddf9481-d81e-46fc-aa56-2f3f7a0ca154.png)
     - [x] Sheikah Stone #16: Reach the Top Ledge on the Waterfalls in Volcano Summit.
     ![image](https://user-images.githubusercontent.com/33391637/236614089-c84d6a33-eb02-4848-96a7-3b02598e171e.png)    
     - [x] Sheikah Stone #17: Use the Clawshots to Reach the Top of the Waterfall Island.
