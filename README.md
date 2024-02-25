@@ -1,5 +1,8 @@
 # The 100 Percent Completion Checklist in Zelda Skyward Sword
 
+[![hackmd-github-sync-badge](https://hackmd.io/TX60vXVSS62MqYxkiUo00g/badge)](https://hackmd.io/TX60vXVSS62MqYxkiUo00g)
+
+
 [![hackmd-github-sync-badge](https://hackmd.io/xulS8GrESceYQFi_YVauWg/badge)](https://hackmd.io/xulS8GrESceYQFi_YVauWg)
 
 
