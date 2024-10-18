@@ -1,7 +1,6 @@
-# The 100 Percent Completion Checklist in Zelda Skyward Sword
+# The 100 Percent Completion Checklist in Zelda Skyward Sword 薩爾達傳說 禦天之劍全搜集
 
 [![hackmd-github-sync-badge](https://hackmd.io/xulS8GrESceYQFi_YVauWg/badge)](https://hackmd.io/xulS8GrESceYQFi_YVauWg)
-
 
 - [x] 100% complete both Normal and Hero Mode.
 ![image](https://user-images.githubusercontent.com/33391637/235417234-20eaf69c-f161-47bf-b050-904d3dc52a33.png)
