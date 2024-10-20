@@ -1,4 +1,4 @@
-# The 100 Percent Completion Checklist in Zelda Skyward Sword 薩爾達傳說 禦天之劍全搜集
+# 薩爾達傳說 禦天之劍 100% 全收集
 
 [![hackmd-github-sync-badge](https://hackmd.io/xulS8GrESceYQFi_YVauWg/badge)](https://hackmd.io/xulS8GrESceYQFi_YVauWg)
 
